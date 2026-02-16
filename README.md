@@ -2,9 +2,9 @@
 
 👋 Hola, soy Alejandro Acosta
 
-🎓 Estudiante de Licenciatura en Sistemas – UNLP
-💻 Analista Programador Universitario
-🚀 Interesado en el desarrollo backend
+- 🎓 Estudiante de Licenciatura en Sistemas – UNLP
+- 💻 Analista Programador Universitario
+- 🚀 Interesado en el desarrollo backend
 
 
 <!--
