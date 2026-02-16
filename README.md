@@ -1,4 +1,11 @@
-## Hi there 👋
+
+
+👋 Hola, soy Alejandro Acosta
+
+🎓 Estudiante de Licenciatura en Sistemas – UNLP
+💻 Analista Programador Universitario
+🚀 Interesado en el desarrollo backend
+
 
 <!--
 **Arkimss/Arkimss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
