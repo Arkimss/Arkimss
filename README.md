@@ -84,9 +84,17 @@
 
 ---
 
+---
+
 ## 📫 Contacto
 
 <p align="center">
-  💼 <a href="https://www.linkedin.com/in/alejandro-acosta-007874258">LinkedIn</a> <br>
-
+  <a href="https://www.linkedin.com/in/alejandro-acosta-007874258" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:acostaale925@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40"/>
+  </a>
 </p>
+
