@@ -8,7 +8,7 @@
 
 - 🚀 Interesado en el desarrollo backend
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arkimss&show_icons=true&theme=tokyonight&locale=es)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkimss)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arkimss&theme=tokyonight&locale=es)
 
