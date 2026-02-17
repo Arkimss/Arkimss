@@ -8,7 +8,7 @@
 
 - 🚀 Interesado en el desarrollo backend
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arkimss)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Arkimss&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arkimss&theme=tokyonight&locale=es)
 
