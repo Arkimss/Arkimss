@@ -1,14 +1,17 @@
 # 👋 Hola, soy Alejandro Acosta
 
- 🎓 Estudiante de Licenciatura en Sistemas – UNLP
- 💻 Analista Programador Universitario
- 🚀 Interesado en el desarrollo backend
+ <p>🎓 Estudiante de Licenciatura en Sistemas – UNLP </p>
+ 
+ <p> 💻 Analista Programador Universitario </p>
+ 
+ <p>🚀 Interesado en el desarrollo backend </p>
 
 ---
 
 ## 📊 Estadísticas
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arkimss&theme=tokyonight&locale=es"  height="170"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arkimss&show_icons=true&theme=tokyonight&locale=es" height="170"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arkimss&layout=compact&theme=tokyonight&locale=es" height="170"/>
 </p>
