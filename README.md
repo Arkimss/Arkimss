@@ -1,18 +1,18 @@
 # 👋 Hola, soy Alejandro Acosta
 
- <p>🎓 Estudiante de Licenciatura en Sistemas – UNLP </p>
- 
- <p> 💻 Analista Programador Universitario </p>
- 
- <p>🚀 Interesado en el desarrollo backend </p>
+<p align="center">
+🎓 Estudiante de Licenciatura en Sistemas – UNLP <br>
+💻 Analista Programador Universitario <br>
+🚀 Interesado en el desarrollo backend y arquitectura de software
+</p>
 
 ---
 
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arkimss&theme=tokyonight&locale=es"  height="170"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arkimss&show_icons=true&theme=tokyonight&locale=es" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arkimss&theme=tokyonight&locale=es" height="170"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arkimss&layout=compact&theme=tokyonight&locale=es" height="170"/>
 </p>
 
@@ -21,7 +21,7 @@
 ## 🛠 Tecnologías
 
 ### 💻 Backend
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -32,20 +32,20 @@
 </p>
 
 ### 🎨 Frontend
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
 </p>
 
 ### 🗄 Bases de Datos
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
 
 ### ⚙ Herramientas
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
@@ -55,12 +55,18 @@
 ## 📚 Proyectos Académicos
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=Proyecto-de-Software&theme=tokyonight"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=DSSD&theme=tokyonight"/>
+  <a href="https://github.com/Arkimss/Proyecto-de-Software">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=Proyecto-de-Software&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/Arkimss/DSSD">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=DSSD&theme=tokyonight"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=ProyectoCRUDAseguradora&theme=tokyonight"/>
+  <a href="https://github.com/Arkimss/ProyectoCRUDAseguradora">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=ProyectoCRUDAseguradora&theme=tokyonight"/>
+  </a>
 </p>
 
 ---
@@ -68,6 +74,19 @@
 ## 🧠 Proyectos Personales
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=PomodoroRock&theme=tokyonight"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=Proyecto-individual-JS-Express&theme=tokyonight"/>
+  <a href="https://github.com/Arkimss/PomodoroRock">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=PomodoroRock&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/Arkimss/Proyecto-individual-JS-Express">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=Proyecto-individual-JS-Express&theme=tokyonight"/>
+  </a>
+</p>
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  💼 <a href="https://www.linkedin.com/in/alejandro-acosta-007874258">LinkedIn</a> <br>
+
 </p>
