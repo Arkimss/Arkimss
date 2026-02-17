@@ -9,8 +9,11 @@
 - 🚀 Interesado en el desarrollo backend
 
 
-Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arkimss&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arkimss&show_icons=true&theme=tokyonight)]
+(https://github.com/Arkimss)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arkimss&theme=tokyonight)]
+(https://github.com/Arkimss)
 
 <!--
 **Arkimss/Arkimss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
