@@ -56,16 +56,16 @@
 
 <p align="center">
   <a href="https://github.com/Arkimss/Proyecto-de-Software">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=Proyecto-de-Software&theme=aura"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=Proyecto-de-Software&theme=nightowl"/>
   </a>
   <a href="https://github.com/Arkimss/DSSD">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=DSSD&theme=aura"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=DSSD&theme=nightowl"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Arkimss/ProyectoCRUDAseguradora">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=ProyectoCRUDAseguradora&theme=aura"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=ProyectoCRUDAseguradora&theme=nightowl"/>
   </a>
 </p>
 
@@ -75,10 +75,10 @@
 
 <p align="center">
   <a href="https://github.com/Arkimss/PomodoroRock">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=PomodoroRock&theme=aura"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=PomodoroRock&theme=nightowl"/>
   </a>
   <a href="https://github.com/Arkimss/Proyecto-individual-JS-Express">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=Proyecto-individual-JS-Express&theme=aura"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=Proyecto-individual-JS-Express&theme=nightowl"/>
   </a>
 </p>
 
