@@ -11,9 +11,9 @@
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arkimss&show_icons=true&theme=tokyonight&locale=es" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arkimss&theme=tokyonight&locale=es" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arkimss&layout=compact&theme=tokyonight&locale=es" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arkimss&show_icons=true&theme=dracula&locale=es" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arkimss&theme=dracula&locale=es" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arkimss&layout=compact&theme=dracula&locale=es" height="170"/>
 </p>
 
 ---
@@ -56,16 +56,16 @@
 
 <p align="center">
   <a href="https://github.com/Arkimss/Proyecto-de-Software">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=Proyecto-de-Software&theme=nightowl"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=Proyecto-de-Software&theme=dracula"/>
   </a>
   <a href="https://github.com/Arkimss/DSSD">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=DSSD&theme=nightowl"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=DSSD&theme=dracula"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Arkimss/ProyectoCRUDAseguradora">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=ProyectoCRUDAseguradora&theme=nightowl"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=ProyectoCRUDAseguradora&theme=dracula"/>
   </a>
 </p>
 
@@ -75,10 +75,10 @@
 
 <p align="center">
   <a href="https://github.com/Arkimss/PomodoroRock">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=PomodoroRock&theme=nightowl"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=PomodoroRock&theme=dracula"/>
   </a>
   <a href="https://github.com/Arkimss/Proyecto-individual-JS-Express">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=Proyecto-individual-JS-Express&theme=nightowl"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkimss&repo=Proyecto-individual-JS-Express&theme=dracula"/>
   </a>
 </p>
 
